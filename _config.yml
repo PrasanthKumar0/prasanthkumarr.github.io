@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       " Prasanth Kumar "
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "As a DevOps fresher, you will be an integral part of our DevOps team, responsible for helping to build and maintain the infrastructure and tools that enable the rapid and reliable development, testing, and deployment of software. This role is an excellent opportunity for a passionate and highly motivated individual to gain hands-on experience in the exciting field of DevOps."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
